@@ -54,7 +54,7 @@ The model is deployed via a **Streamlit web app**, allowing users to:
 
 Below is a screenshot of the Streamlit web app in action:
 
-![Next Word Prediction Streamlit App]('Screenshot 2025-07-26 231842.png')
+![Next Word Prediction Streamlit App](LSTM RNN\img.png)
 
 ---
 
@@ -69,7 +69,7 @@ Below is a screenshot of the Streamlit web app in action:
 2. Create a virtual environment and activate it:
    python -m venv venv
 venv\Scripts\activate   # Windows
-    # or
+     or
     source venv/bin/activate   # macOS/Linux
 3. Install dependencies:
     Install dependencies:
@@ -90,7 +90,7 @@ README.md – Project overview and instructions
 
 requirements.txt – Python dependencies
 
-screenshots/app_demo.png – 'Screenshot 2025-07-26 231842.png'
+screenshots/app_demo.png – LSTM RNN\img.png
  
  ---
 
