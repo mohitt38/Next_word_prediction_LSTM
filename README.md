@@ -54,7 +54,8 @@ The model is deployed via a **Streamlit web app**, allowing users to:
 
 Below is a screenshot of the Streamlit web app in action:
 
-![Next Word Prediction Streamlit App](LSTM RNN\img.png)
+![Next Word Prediction Streamlit App](img.png)
+
 
 ---
 
